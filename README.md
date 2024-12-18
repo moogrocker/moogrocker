@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a versatile professional with a strong foundat
 
 - **Entrepreneurial Spirit**: From co-founding a humanitarian project in Madagascar to streamlining business operations for major players like Universal Music France, my journey has always been driven by a passion for impactful problem-solving and collaboration.
 - **Data Enthusiast**: Having completed an intensive Data Science & AI Bootcamp at Le Wagon, I specialize in Python, SQL, Machine Learning, and deploying scalable AI models. I aspire to bridge the gap between technology and business strategy.
-- **Strategic Vision**: My experience in consulting sharpened my business acumen, my analytical skills and my communication skills, throughout due diligences and missions with top-tier clients.
+- **Strategic Vision**: My experience in consulting sharpened my business acumen, my analytical skills and my communication skills throughout due diligences and missions with top-tier clients.
 
 ## 🌟 Featured Projects
 
@@ -25,9 +25,9 @@ Welcome to my GitHub profile! I'm a versatile professional with a strong foundat
 - **Frameworks**: FastAPI, Streamlit, Flask
 
 ## 🌍 Other Interests
-- Music Production: 12+ years of playing guitar, DJing, and producing.
-- Community Engagement: 9 years in Scouts (2 as a team leader), teaching and fundraising for educational projects in Madagascar.
-- Rugby: Played as a full-back for IE University Rugby Club.
+- **Music Production**: 12+ years of playing guitar, DJing, and producing.
+- **Community Engagement**: 9 years in Scouts (2 as a team leader), teaching and fundraising for educational projects in Madagascar.
+- **Rugby**: Played as a full-back for IE University Rugby Club.
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/arthur-dauchez-73034516b/)

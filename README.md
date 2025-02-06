@@ -31,6 +31,5 @@ Welcome to my GitHub profile! I'm a versatile professional with a strong foundat
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/arthur-dauchez-73034516b/)
-- [GitHub](https://github.com/moogrocker)
 
 Feel free to explore my repositories or reach out if you'd like to collaborate on exciting projects. Let's create something impactful together!

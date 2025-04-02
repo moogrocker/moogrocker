@@ -11,11 +11,11 @@ Welcome to my GitHub profile! I'm a versatile professional with a strong foundat
 ## 🌟 Featured Projects
 
 ### [HarmonIQ - AI-Powered Music Recommendation Engine](https://harmoniq-recommendation-engine.streamlit.app/)
-#### [Watch out our project presentation on Demo Day!](https://lewagon.notion.site/Demo-Day-15a8924af01480babcd5d62cce2b9bea)
 - **Description**: An unsupervised recommendation system that generates playlists based on user preferences using Spotify’s API.
 - **Tech Stack**: Python, BigQuery, Docker, FastAPI, Streamlit
 - **Key Features**: Integrated clustering models (PCA and K-means) on a dataset of 500K+ tracks to deliver curated music recommendations.
-
+- [Watch out our project presentation on Demo Day!](https://lewagon.notion.site/Demo-Day-15a8924af01480babcd5d62cce2b9bea)
+  
 ## 🎓 Education
 - **Le Wagon, London**: Data Science & AI Intensive Bootcamp
 - **IE Business School, Madrid**: Bachelor in Business Administration (Thesis: The Ethical Dilemma of AI-Generated Music)

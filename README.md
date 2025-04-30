@@ -1,4 +1,4 @@
-# Hi, I'm Arthur Dauchez! 👋
+# Hi, I'm Arthur Dauchez!
 
 Welcome to my GitHub profile! I'm a versatile professional with a strong foundation in data science and strategy consulting. My journey spans across developing innovative solutions, leading projects, and supporting impactful initiatives.
 

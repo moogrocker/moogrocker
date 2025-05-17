@@ -6,7 +6,7 @@ Currently working as an AI analyst in a RAG and conversational AI provider start
 ## 🚀 Featured Projects
 
 ### [Synthesizer - Synthetic Data Generator](https://github.com/moogrocker/synthesizer)
-- **Description**: An advanced research project focused on generating high-quality synthetic data through innovative data mining techniques and advanced modeling.
+- **Description**: An advanced research project focused on generating high-quality synthetic data through innovative data mining techniques and advanced modelling.
 - **Tech Stack**: Python, Mistral OCR, Selenium, BeautifulSoup, Langchain, Langgraph, Streamlit
 - **Key Features**: LinkedIn scraper using Selenium and Optical Character Recognition (OCR) and a synthetic data generator trained on the linkedin data mined.
 
